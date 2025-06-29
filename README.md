@@ -33,10 +33,8 @@ git clone https://github.com/syeda-fakiha/Task-Tracker-App.git
 cd Task-Tracker-App
 npm install
 npm start
+
  Folder Structure
-pgsql
-Copy
-Edit
 react-assignment-final/
 ├── public/
 ├── src/
@@ -61,6 +59,7 @@ Build and document a functional React application
 👩‍💻 Author
 Syeda Fakiha
 Frontend Developer | React Learner
+
 License
 This project is for educational purposes and part of a university-level React fundamentals assignment.
 
